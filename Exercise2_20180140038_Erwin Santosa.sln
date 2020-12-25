@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2_20180140038_Erwin Santosa", "Exercise2_20180140038_Erwin Santosa\Exercise2_20180140038_Erwin Santosa.csproj", "{A4D8EEB8-A025-45B0-8FD7-6944589E3FAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client_038_Erwin Santosa", "Client_038_Erwin Santosa", "{A619468A-19F5-4FFF-BCED-E7C6AE7B1B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceExercise_038_Erwin Santosa", "ServiceExercise_038_Erwin Santosa\ServiceExercise_038_Erwin Santosa.csproj", "{339C52F8-2ADF-46ED-AEB0-A8273F5E24B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service_038_Erwin Santosa", "Service_038_Erwin Santosa", "{36A3CADA-5AB5-4902-AB05-C8F15CDE34DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerCode_038_Erwin Santosa", "ServerCode_038_Erwin Santosa\ServerCode_038_Erwin Santosa.csproj", "{E0948A5B-A48C-44D6-A719-C9846239697E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServerCodeEx_038_Erwin Santosa", "ServerCodeEx_038_Erwin Santosa", "{5A8F477F-26D0-457D-9ACF-CC5EF7C27FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4D8EEB8-A025-45B0-8FD7-6944589E3FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D8EEB8-A025-45B0-8FD7-6944589E3FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D8EEB8-A025-45B0-8FD7-6944589E3FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D8EEB8-A025-45B0-8FD7-6944589E3FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339C52F8-2ADF-46ED-AEB0-A8273F5E24B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339C52F8-2ADF-46ED-AEB0-A8273F5E24B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339C52F8-2ADF-46ED-AEB0-A8273F5E24B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339C52F8-2ADF-46ED-AEB0-A8273F5E24B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0948A5B-A48C-44D6-A719-C9846239697E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0948A5B-A48C-44D6-A719-C9846239697E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0948A5B-A48C-44D6-A719-C9846239697E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0948A5B-A48C-44D6-A719-C9846239697E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4D8EEB8-A025-45B0-8FD7-6944589E3FAE} = {A619468A-19F5-4FFF-BCED-E7C6AE7B1B4F}
+		{339C52F8-2ADF-46ED-AEB0-A8273F5E24B4} = {36A3CADA-5AB5-4902-AB05-C8F15CDE34DF}
+		{E0948A5B-A48C-44D6-A719-C9846239697E} = {5A8F477F-26D0-457D-9ACF-CC5EF7C27FB5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F6298E-872D-477B-89D3-3277ABDD5EE9}
+	EndGlobalSection
+EndGlobal
